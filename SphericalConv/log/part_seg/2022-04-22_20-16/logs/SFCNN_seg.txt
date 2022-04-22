@@ -1,0 +1,11 @@
+2022-04-22 20:16:19,178 - Model - INFO - PARAMETER ...
+2022-04-22 20:16:19,178 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='2', learning_rate=0.001, log_dir=None, lr_decay=0.5, model='SFCNN_seg', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2022-04-22 20:16:19,348 - Model - INFO - The number of training data is: 13998
+2022-04-22 20:16:19,348 - Model - INFO - The number of test data is: 2874
+2022-04-22 20:16:53,961 - Model - INFO - PARAMETER ...
+2022-04-22 20:16:53,962 - Model - INFO - Namespace(batch_size=16, decay_rate=0.0001, epoch=251, gpu='2', learning_rate=0.001, log_dir=None, lr_decay=0.5, model='SFCNN_seg', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2022-04-22 20:16:54,127 - Model - INFO - The number of training data is: 13998
+2022-04-22 20:16:54,127 - Model - INFO - The number of test data is: 2874
+2022-04-22 20:16:57,220 - Model - INFO - No existing model, starting training from scratch...
+2022-04-22 20:16:57,222 - Model - INFO - Epoch 1 (1/251):
+2022-04-22 20:16:57,222 - Model - INFO - Learning rate:0.001000
